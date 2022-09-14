@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Gamer-Girl35
 - 👀 I’m interested in coding games 
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : YOU CAN'T
 
 <!---
